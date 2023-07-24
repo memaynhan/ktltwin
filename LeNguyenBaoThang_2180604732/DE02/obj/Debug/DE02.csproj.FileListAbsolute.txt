@@ -1,0 +1,16 @@
+D:\DE02\DE02\obj\Debug\DE02.csproj.AssemblyReference.cache
+D:\DE02\DE02\obj\Debug\DE02.csproj.SuggestedBindingRedirects.cache
+D:\DE02\DE02\obj\Debug\DE02.Properties.Resources.resources
+D:\DE02\DE02\obj\Debug\DE02.csproj.GenerateResource.cache
+D:\DE02\DE02\obj\Debug\DE02.csproj.CoreCompileInputs.cache
+D:\DE02\DE02\obj\Debug\DE02.frmSanPham.resources
+D:\DE02\DE02\bin\Debug\DE02.exe.config
+D:\DE02\DE02\bin\Debug\DE02.exe
+D:\DE02\DE02\bin\Debug\DE02.pdb
+D:\DE02\DE02\bin\Debug\EntityFramework.dll
+D:\DE02\DE02\bin\Debug\EntityFramework.SqlServer.dll
+D:\DE02\DE02\bin\Debug\EntityFramework.xml
+D:\DE02\DE02\bin\Debug\EntityFramework.SqlServer.xml
+D:\DE02\DE02\obj\Debug\DE02.csproj.CopyComplete
+D:\DE02\DE02\obj\Debug\DE02.exe
+D:\DE02\DE02\obj\Debug\DE02.pdb
